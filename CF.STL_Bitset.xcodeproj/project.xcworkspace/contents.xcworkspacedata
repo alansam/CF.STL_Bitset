@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/alansampson/Projects/Xcode/CFragments/CF_STL_Bitset/CF.STL_Bitset.xcodeproj">
    </FileRef>
 </Workspace>

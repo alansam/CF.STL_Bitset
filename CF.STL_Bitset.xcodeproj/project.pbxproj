@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		5AA5F9DD2602A06600AC8E68 /* CF_STL_Bitset */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CF_STL_Bitset; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AA5F9DD2602A06600AC8E68 /* CF.STL_Bitset */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CF.STL_Bitset; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA5F9E02602A06600AC8E68 /* bitset.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bitset.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		5AA5F9D42602A06600AC8E68 = {
 			isa = PBXGroup;
 			children = (
-				5AA5F9DF2602A06600AC8E68 /* CF_STL_Bitset */,
+				5AA5F9DF2602A06600AC8E68 /* CF.STL_Bitset */,
 				5AA5F9DE2602A06600AC8E68 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		5AA5F9DE2602A06600AC8E68 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5AA5F9DD2602A06600AC8E68 /* CF_STL_Bitset */,
+				5AA5F9DD2602A06600AC8E68 /* CF.STL_Bitset */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		5AA5F9DF2602A06600AC8E68 /* CF_STL_Bitset */ = {
+		5AA5F9DF2602A06600AC8E68 /* CF.STL_Bitset */ = {
 			isa = PBXGroup;
 			children = (
 				5AA5F9E02602A06600AC8E68 /* bitset.cpp */,
 			);
-			path = CF_STL_Bitset;
+			path = CF.STL_Bitset;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5AA5F9DC2602A06600AC8E68 /* CF_STL_Bitset */ = {
+		5AA5F9DC2602A06600AC8E68 /* CF.STL_Bitset */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5AA5F9E42602A06600AC8E68 /* Build configuration list for PBXNativeTarget "CF_STL_Bitset" */;
+			buildConfigurationList = 5AA5F9E42602A06600AC8E68 /* Build configuration list for PBXNativeTarget "CF.STL_Bitset" */;
 			buildPhases = (
 				5AA5F9D92602A06600AC8E68 /* Sources */,
 				5AA5F9DA2602A06600AC8E68 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = CF_STL_Bitset;
+			name = CF.STL_Bitset;
 			productName = CF_STL_Bitset;
-			productReference = 5AA5F9DD2602A06600AC8E68 /* CF_STL_Bitset */;
+			productReference = 5AA5F9DD2602A06600AC8E68 /* CF.STL_Bitset */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +95,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5AA5F9D82602A06600AC8E68 /* Build configuration list for PBXProject "CF_STL_Bitset" */;
+			buildConfigurationList = 5AA5F9D82602A06600AC8E68 /* Build configuration list for PBXProject "CF.STL_Bitset" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5AA5F9DC2602A06600AC8E68 /* CF_STL_Bitset */,
+				5AA5F9DC2602A06600AC8E68 /* CF.STL_Bitset */,
 			);
 		};
 /* End PBXProject section */
@@ -263,7 +263,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5AA5F9D82602A06600AC8E68 /* Build configuration list for PBXProject "CF_STL_Bitset" */ = {
+		5AA5F9D82602A06600AC8E68 /* Build configuration list for PBXProject "CF.STL_Bitset" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5AA5F9E22602A06600AC8E68 /* Debug */,
@@ -272,7 +272,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5AA5F9E42602A06600AC8E68 /* Build configuration list for PBXNativeTarget "CF_STL_Bitset" */ = {
+		5AA5F9E42602A06600AC8E68 /* Build configuration list for PBXNativeTarget "CF.STL_Bitset" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5AA5F9E52602A06600AC8E68 /* Debug */,
